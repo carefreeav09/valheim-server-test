@@ -27,4 +27,4 @@ VOLUME ["/config", "/opt/valheim"]
 # Command to run the server (executes the start_server.sh script)
 CMD ["/start_server.sh"]
 
-#renamed file
+#renamed file to Dockerfile
